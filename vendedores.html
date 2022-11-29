@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <script type='text/javascript' src='https://cdn.firebase.com/js/client/1.0.6/firebase.js'></script>		
+    
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"></script>
+    
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-analytics.js"></script>  
+    
+        <script>
+          // Your web app's Firebase configuration
+          var firebaseConfig = {
+            apiKey: "AIzaSyA_LE1wL1MoH2MSAzYc5nFwrXWAzqwXpYg",
+            authDomain: "marcos-5491e.firebaseapp.com",
+            databaseURL: "https://marcos-5491e-default-rtdb.firebaseio.com",
+            projectId: "marcos-5491e",
+            storageBucket: "marcos-5491e.appspot.com",
+            messagingSenderId: "107961700042",
+            appId: "1:107961700042:web:352f25bebf2de1eea2ee33",
+            measurementId: "G-DRR86M60XW"
+          };
+          // Initialize Firebase
+          firebase.initializeApp(firebaseConfig);
+          firebase.analytics();
+        </script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="consulta2.js"></script>
+
+    </head>
+
+    <body>
+        <table id="tbVendedores">
+            <tr>
+                <th>CV</th>
+                <th>Nome</th>
+                <th>Telefone</th>
+            </tr>
+        </table>
+    </body>
+</html>

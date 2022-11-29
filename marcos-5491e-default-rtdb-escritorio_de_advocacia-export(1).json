@@ -1,0 +1,234 @@
+{
+  "clientes": [
+    null,
+    {
+      "email": "ricardo.vaqueiro@gmail.com",
+      "endereco": {
+        "cep": "45829-016",
+        "cidade": "Tucuruí",
+        "estado": "Pará",
+        "pais": "Brasil"
+      },
+      "nome": "Ricardo Vaqueiro",
+      "telefone": 988745452
+    },
+    {
+      "email": "josé@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "cidade": "Boa Viagem",
+        "estado": "Ceará",
+        "pais": "Brasil"
+      },
+      "nome ": "Francisco josé",
+      "telefone": 96654122
+    },
+    {
+      "email": "arimateia@gmail.com",
+      "endereco": {
+        "cep": "64900-000",
+        "cidade": "Bom Jesus",
+        "estado": "piauí",
+        "pais": "Brasil"
+      },
+      "nome": "José de Arimateia",
+      "telefone": 988754133
+    },
+    {
+      "email": "xavier@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "cidade": "Boa Viagem",
+        "estado": "Ceará",
+        "pais": "Brasil"
+      },
+      "nome ": "José Xavier da Silva",
+      "telefone": 988747512
+    },
+    {
+      "email": "mateus.cavalcante@gmail.com",
+      "endereco": {
+        "cep": "64900-000",
+        "cidade": "Bom Jesus",
+        "estado": "Piauá",
+        "pais": "Brasil"
+      },
+      "nome": "Mateus Oliveira Cavalcante",
+      "telefone": 987456123
+    },
+    {
+      "email": "Golria@gmail.com",
+      "endereco": {
+        "cep": "63870-000",
+        "cidade": "Boa Viagem",
+        "estado": "Ceará",
+        "pais": "Brasil"
+      },
+      "nome": "Maria Da Gloria",
+      "telefone": 988754672
+    },
+    {
+      "email": "fonseca@gmail.com",
+      "endereco": {
+        "cep": "64200-913",
+        "cidade": "Parnaíba",
+        "estado": "Piauí",
+        "pais": "Brasil"
+      },
+      "nome ": "José da Fonseca",
+      "telefone": 985877266
+    },
+    {
+      "email": "jeosafa@gmail.com",
+      "endereco": {
+        "cep": "64200-913",
+        "cidade": "Parnaíba",
+        "estado": "Piauí",
+        "pais": "Brasil"
+      },
+      "nome": "Jeosafá Lima",
+      "telefone": 987856624
+    },
+    {
+      "email": "chaves@gmail.com",
+      "endereco": {
+        "cep": "64200-913",
+        "cidade": "Parnaíba",
+        "estado": "Piauí",
+        "pais": "Brasil"
+      },
+      "nome": "João Chaves da Cruz",
+      "telefone": 988771213
+    },
+    {
+      "email": "kuririn@gmail.com",
+      "endereco": {
+        "cep": "64200-913",
+        "cidade": "Parnaíba",
+        "estado": "Piauí",
+        "pais": "Brasil"
+      },
+      "nome": "Kuririn Rodrigues de Souza",
+      "telefone": 987563214
+    }
+  ],
+  "salas": {
+    "funcionário": [
+      null,
+      {
+        "cpf": "123.457.555-56",
+        "email": "joao@gmail.com",
+        "endereco": {
+          "cep": "63870-000",
+          "cidade": "Boa Viagem",
+          "estado": "Ceará",
+          "pais": "Brasil"
+        },
+        "nome": "João Cociêlo",
+        "telefone": 984271244
+      },
+      {
+        "cpf": "145.545.889-78",
+        "email": "valter@gmail.com",
+        "endereco": {
+          "cep": "63870-000",
+          "cidade": "Boa Viagem",
+          "estado": "Ceará",
+          "pais": "Brasil"
+        },
+        "nome": "Jose Valter",
+        "telefone": 998074533
+      },
+      {
+        "cpf": "481.535.688-54",
+        "email": "francisco@gmail.com",
+        "endereco": {
+          "cep": "45829-016",
+          "cidade": "Tucuruí",
+          "estado": "Pará",
+          "pais": "Brasil"
+        },
+        "nome": "Francisco Raimundo de Souza",
+        "telefone": 988245641
+      },
+      {
+        "cpf": "102.447.552-51",
+        "email": "Ronaldo@gmail.com",
+        "endereco": {
+          "cep": "47806-421",
+          "cidade": "Belém",
+          "estado": "Pará",
+          "pais": "Brasil"
+        },
+        "nome": "Ronaldo Marino da Silva",
+        "telefone": 993652122
+      },
+      {
+        "email": "Viera@gmial.com",
+        "endereco": {
+          "cep": "83251-000",
+          "cidade": "Ilha do Mel",
+          "estado": "Paraná",
+          "pais": "Brasil"
+        },
+        "nome": "Antonio Bezerra Vieira",
+        "telefone": 988745612
+      },
+      {
+        "email": "maria@gmail.com",
+        "endereco": {
+          "cep": "38600-000",
+          "cidade": "Paracatu",
+          "estado": "Minas Gerais",
+          "pais": "Brasil"
+        },
+        "nome": "Maria Bonita Corcoelo",
+        "telefone": 997431156
+      },
+      {
+        "email": "virgulino@gmail.com",
+        "endereco": {
+          "cep": "38600-000",
+          "cidade": "Paracatu",
+          "estado": "Minas Gerais",
+          "pais": "Brasil"
+        },
+        "nome ": "Antonio Virgulino da Silva",
+        "telefone": 995664213
+      },
+      {
+        "email": "marinho@gmail.com",
+        "endereco": {
+          "cep": "64001-929",
+          "cidade": "Teresina",
+          "estado": "Piauí",
+          "pais": "Brasil"
+        },
+        "nome": "Roberto Marinho de Oliveira",
+        "telefone": 994751233
+      },
+      {
+        "email": "sara@gmail.com",
+        "endereco": {
+          "cep": "05659-900",
+          "cidade": "Paraisopolis",
+          "estado": "São Paulo",
+          "pais": "Brasil"
+        },
+        "nome": "Sara Abreu Lima",
+        "telefone": 996362453
+      },
+      {
+        "email": "marcos@gmai.com",
+        "endereco": {
+          "cep": "63870-000",
+          "cidade": "Boa Viagem ",
+          "estado": "Ceará",
+          "pais": "Brasil"
+        },
+        "nome": "Marcos Antonio Souza",
+        "telefone": 993563203
+      }
+    ]
+  }
+}
